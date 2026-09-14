@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- Compact Header GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="340" alt="Hacking GIF" />
+# Hi 🖐️, I'm Youssef ELToor
+
+### **Big Data Engineering Trainee | Junior Data Engineer | Data Analyst**
+
+<br />
+
+<!-- Header GIF (متناسق تماماً مع عرض الأزرار) -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="430" alt="Hacking GIF" />
 
 <br /><br />
 
@@ -14,15 +20,11 @@
 <br />
 
 <!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=flat-square&label=visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 <br />
-
-# Hi 🖐️, I'm Youssef ELToor
-
-### **Big Data Engineering Trainee | Junior Data Engineer | Data Analyst**
 
 ---
 
