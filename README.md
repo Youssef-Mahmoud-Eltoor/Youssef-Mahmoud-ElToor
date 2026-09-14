@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Compact GIF Header -->
+<!-- Compact Header GIF -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="340" alt="Hacking GIF" />
 
-<br />
+<br /><br />
 
 <!-- Social Media Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefeltoor)
@@ -11,23 +11,25 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201143028838)
 [![GitHub Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Mahmoud-Eltoor)
 
-<!-- Stable Visitor Counter -->
+<br />
+
+<!-- Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=flat-square&label=visitors)
 
 </div>
 
+<br />
+
+# Hi 🖐️, I'm Youssef ELToor
+
+### **Big Data Engineering Trainee | Junior Data Engineer | Data Analyst**
+
 ---
 
-# 👋 Hi, I'm Youssef ELToor
+### 👨‍💻 About Me
 
-💼 **Big Data Engineering Trainee | Junior Data Engineer | Data Analyst**  
-📍 Based in Egypt | 🌐 Bilingual: Arabic & English
-
----
-
-### 🧠 About Me
-
-Building scalable, reliable, and distributed data pipelines & analytical solutions using **Python, SQL, Apache Spark, Hadoop, Hive, Databricks, and Cloud Technologies**.
+Welcome to my GitHub profile!  
+I enjoy turning raw data into reliable, structured, and useful information through **Python, SQL, Apache Spark, Hadoop, Hive, Cloud technologies, and Data Warehousing**.
 
 ---
 
@@ -62,20 +64,33 @@ Building scalable, reliable, and distributed data pipelines & analytical solutio
 
 ## 🚀 Featured Projects
 
-* 📊 **[Aether Environmental Intelligence Platform](https://github.com/Youssef-Mahmoud-Eltoor):** End-to-end air quality monitoring data pipeline *(Python, SQL Server, SSIS, Power BI)*.
-* 📚 **[Library Management System](https://github.com/Youssef-Mahmoud-Eltoor):** Relational database architecture & interactive analytics dashboard *(SQL Server, Power Query, Power BI)*.
-* 📈 **[Big Data & Medallion Pipeline Projects](https://github.com/Youssef-Mahmoud-Eltoor):** Distributed Lakehouse architecture across Bronze, Silver, and Gold layers *(Databricks, PySpark, HDFS, Hive)*.
+### 📊 Aether Environmental Intelligence Platform
+An end-to-end data pipeline built to monitor and analyze air quality metrics.
+* **Tech Stack:** Python, SQL Server, SSIS, Power BI
+* 🔗 **Repository:** [Aether Project Link](https://github.com/Youssef-Mahmoud-Eltoor)
+
+### 📚 Library Management System
+An 8-table relational database architecture with an interactive analytical dashboard.
+* **Tech Stack:** SQL Server, Power Query, Power BI, DAX
+* 🔗 **Repository:** [Library System Link](https://github.com/Youssef-Mahmoud-Eltoor)
+
+### 📈 Big Data & Medallion Pipeline Projects
+A collection of end-to-end distributed data pipelines built using Bronze, Silver, and Gold Lakehouse architectures.
+* **Tech Stack:** Databricks, PySpark, HDFS, Hive, PostgreSQL
+* 🔗 **Repository:** [Big Data Projects Link](https://github.com/Youssef-Mahmoud-Eltoor)
 
 ---
 
 ## 🎓 Education & Certifications
 
 * 🎓 **B.Sc. in Business Information Systems (BIS)** — Tanta University *(GPA: 3.36 / Very Good)*
-* 💼 **Huawei Big Data Associate (80 Hrs)** — Huawei ICT Academy *(In Progress - HCIA-Big Data H13-711)*
-* 💼 **Big Data Engineering Trainee (420 Hrs)** — National Telecommunication Institute (NTI) *(In Progress)*
+* 💼 **Huawei Big Data Associate (80 Hrs)** — Huawei ICT Academy *(In Progress)*
+  * **Certification Target:** HCIA-Big Data (H13-711)
+* 💼 **Big Data Engineering Trainee - Hire Ready Program (420Hrs)** — National Telecommunication Institute (NTI) *(In Progress)*
 * 🏅 **Red Hat System Administration I (RH124)** — Red Hat Academy
 * 🐍 **Python Essentials 1 & 2** — Cisco Networking Academy / OpenEDG
-* 🗄️ **Transact SQL Queries & Database Fundamentals** — MaharaTech
+* 🗄️ **Transact SQL Queries Using SQL Server** — MaharaTech
+* 🗄️ **Database Fundamentals** — MaharaTech
 * 📊 **Data Analysis Freelance Program** — NTI
 
 ---
