@@ -19,8 +19,11 @@
 
 <br />
 
+
+<div align="center">
+
 <!-- Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/Youssef-Mahmoud-Eltoor/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
