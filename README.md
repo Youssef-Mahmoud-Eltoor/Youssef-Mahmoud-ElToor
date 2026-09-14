@@ -94,6 +94,15 @@ A collection of end-to-end distributed data pipelines built using Bronze, Silver
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mahmoud-Eltoor&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<br />
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Mahmoud-Eltoor/Youssef-Mahmoud-Eltoor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Mahmoud-Eltoor/Youssef-Mahmoud-Eltoor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Youssef-Mahmoud-Eltoor/Youssef-Mahmoud-Eltoor/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
