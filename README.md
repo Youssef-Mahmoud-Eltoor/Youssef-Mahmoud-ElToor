@@ -26,41 +26,49 @@ I enjoy turning raw data into reliable, structured, and useful information throu
 
 ---
 
-### 🧰 Tech Stack & Tools
+<div align="center">
 
-#### 🐍 Programming & Core Database
-<p>
+## 🧰 Tech Stack & Tools
+
+### 🐍 Programming & Core Database
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mssql,bash" />
 </p>
 
-#### ⚡ Big Data & Distributed Computing
-<p>
+### ⚡ Big Data, Lakehouse & Distributed Computing
+<p align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lakehouse_Architecture-005571?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-#### 🔄 Workflow Orchestration & Data Integration
-<p>
+### 🔄 Workflow Orchestration & Data Integration
+<p align="center">
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_NiFi-7F8C8D?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, DevOps & Infrastructure
-<p>
+### ☁️ Cloud, DevOps & Infrastructure
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,githubactions,docker" />
 </p>
 
-#### 📊 Analytics & Business Intelligence
-<p>
+### 📊 Analytics & Business Intelligence
+<p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Query_%2F_M-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel_%26_Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
