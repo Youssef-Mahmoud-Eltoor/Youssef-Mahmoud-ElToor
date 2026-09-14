@@ -22,35 +22,44 @@
 ### 👨‍💻 About Me
 
 Welcome to my GitHub profile!  
-I enjoy turning raw data into reliable, structured, and useful information through **Python, SQL, Apache Spark, Hadoop, Hive, Cloud technologies, and Data Warehousing**.
+I enjoy turning raw data into reliable, structured, and useful information through **Python, SQL, Big Data Systems, ETL Pipelines, and Advanced Business Intelligence/Analytics Solutions**.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-#### 🐍 Programming & Database Languages
+#### 🐍 Programming & Core Database
 <p>
   <img src="https://skillicons.dev/icons?i=python,postgres,mssql,bash" />
 </p>
 
-#### ⚡ Big Data & Distributed Engineering
+#### ⚡ Big Data & Distributed Computing
 <p>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & Infrastructure
+#### 🔄 Workflow Orchestration & Data Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,redhat,linux" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_NiFi-7F8C8D?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+#### ☁️ Cloud, DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,githubactions,docker" />
 </p>
 
 #### 📊 Analytics & Business Intelligence
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query_%2F_M-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_%26_Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
@@ -88,7 +97,7 @@ A collection of end-to-end distributed data pipelines built using Bronze, Silver
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
@@ -96,7 +105,7 @@ A collection of end-to-end distributed data pipelines built using Bronze, Silver
 
 <br />
 
-###  Contribution Activity
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Mahmoud-Eltoor/Youssef-Mahmoud-Eltoor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Mahmoud-Eltoor/Youssef-Mahmoud-Eltoor/output/github-contribution-grid-snake.svg">
