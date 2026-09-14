@@ -6,8 +6,8 @@
 
 <br />
 
-<!-- GIF Header -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="480" alt="Hacking GIF" />
+<!-- Banner GIF (حجم متوسط ومتناسق) -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="450" alt="Hacking GIF" />
 
 <br /><br />
 
@@ -19,10 +19,7 @@
 
 <br />
 
-
-<div align="center">
-
-<!-- Visitor Counter -->
+<!-- Stable Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
