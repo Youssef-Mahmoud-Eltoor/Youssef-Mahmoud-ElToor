@@ -88,6 +88,16 @@ A collection of end-to-end distributed data pipelines built using Bronze, Silver
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mahmoud-Eltoor&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 <div align="center">
 
 > **Building reliable data solutions, one pipeline at a time. 🚀**
